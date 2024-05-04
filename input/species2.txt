@@ -1,0 +1,6 @@
+plant a 0 -2
+plant e 0 2
+herbivore I 60
+HerBiVore O 40
+Omnivore U 50
+oMniVore V 30
